@@ -2,7 +2,7 @@
 
 This script makes Docker commands easier to use with [fzf](https://github.com/junegunn/fzf).
 
-It lets you pick containers, images, and commands with a fuzzy search menu instead of typing everything.
+It lets you pick containers, images, and commands with a fuzzy search menu in your terminal.
 
 <img src="imgs/fzf-docker.png" />
 
