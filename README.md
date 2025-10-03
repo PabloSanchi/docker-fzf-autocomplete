@@ -53,6 +53,11 @@ cd docker-fzf-autocomplete
 ./install.sh
 ```
 
+3. Reload shell rc
+```bash
+source ~/.bashrc
+```
+
 ## Manual Installation
 
 1. Create a folder `fzf` under `.config`
